@@ -4,18 +4,16 @@ This Modpack adds many new "vanilla-plus" features, such as better structures an
 ## Installing
 I recommend using [Prism Launcher](https://prismlauncher.org/download/windows/) as you can install this modpack with just the link, rather than downloading the entire zip and adding it yourself.
 
-### [Video Guide](https://example.com)
+Watch this [Video Guide](https://example.com) for a complete walkthrough of installing Prism, adding the pack, and getting on the server.
 
-1. Installing Prism
-
+### Installing Prism
 Go to https://prismlauncher.org/download/windows/ and download the latest version. Complete the setup until you are at the main screen.
 
-2. Adding the Instance
-
+### Adding the Instance
 Click "Add Instance". Give your new instance a name (like "Steam & Storms"). Choose "Import" on the left and enter this link:
 ```https://example.com```
 
-4. TBA
+### TBA
 
 ## A Short List of the Mods
 
