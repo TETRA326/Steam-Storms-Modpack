@@ -7,12 +7,15 @@ I recommend using [Prism Launcher](https://prismlauncher.org/download/windows/) 
 ### [Video Guide](https://example.com)
 
 1. Installing Prism
-Go to https://prismlauncher.org/download/windows/ and download the latest version.
-Complete the setup until you are at the main screen.
+
+Go to https://prismlauncher.org/download/windows/ and download the latest version. Complete the setup until you are at the main screen.
+
 2. Adding the Instance
+
 Click "Add Instance". Give your new instance a name (like "Steam & Storms"). Choose "Import" on the left and enter this link:
 ```https://example.com```
-3. TBA
+
+4. TBA
 
 ## A Short List of the Mods
 
