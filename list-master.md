@@ -88,6 +88,8 @@ Note that some mods may require mods that aren't listed. Either I did not realiz
 |  | Overflowing Bars | QOL | Puzzles Lib |  | Expand the health and armor bars past vanilla |
 |  | CraftPresence | QOL | UniLib |  | Better Discord presence |
 |  | Persistant Creative Inventory | QOL | Kiwi |  | Save your place in the creative inventory |
+|  | Trade Cycling | QOL |  |  | Adds a button to villager menus to easily change trades |
+|  | Visible Trades | QOL |  |  | See all future trades of a villager |
 |  | Constant Music | QOL |  |  | Change duration of silence between in-game tracks |
 |  | Curios API | QOL |  |  | Adds extra slots for gear |
 |  | Corpse | QOL |  |  | Places a corpse with your items wherever you die |
@@ -249,13 +251,14 @@ Note that some mods contain their library mods with themselves. Those will not b
 | --- | --- |
 | 1.19 Panorama | Adds a panorama inspired by 1.19 (The Wild Update). Panorama taken with shaders and a nice texture pack. |
 | 1.21.4 Panorama | Adds a panorama inspired by 1.21.4 (The Garden Awakens Update). Panorama taken with shaders and a nice texture pack. |
-| 3D Flowers and Plants | Makes crops and flowers look nicer in 3D. Use either this or Fancy Crops. |
+| 3D Flowers and Plants | Makes some crops and flowers look nicer in 3D. Use either this or Fancy Crops. |
 | Armor Stands Revamped | Makes armor stands look better by being more player-shaped. |
 | Capitalized Font | Mᴀᴋᴇs ᴀʟʟ ɪɴ-ɢᴀᴍᴇ ᴛᴇxᴛ ᴜsᴇ ᴀ Sᴍᴀʟʟ-Cᴀᴘs ғᴏɴᴛ. |
 | Colorful Containers | Makes inventory screens and other GUI's look nicer. Would use either this, Create Style Interface, or GUI Experience+. |
 | Create Style Interface | All GUI's and most sounds are inspired by Create. A lot of looks come from Create Higher Logistics textures. Would use either this, Colorful Containers, or GUI Experience+. |
 | Creepers Revamped | Changes the default creeper texture, and provides new ones based on the spawn area (snowy, cherry, pale, etc). |
 | Different Enchantment Books | Makes all vanilla enchantment books unique textures. |
+| Different Enchantment Books - Modded | Makes books from many mods use a unique texture. All but 4 books have custom textures now. |
 | Effect Icons | Adds icons next to effects in tool tips. Useful when looking at potions or mobs. |
 | Enchantment Icons | Adds icons next to enchants. Useful looking at books or in the enchantment table. |
 | Enhanced Boss Bars | Changes the look of boss bars to be more "epic". Changes for vanilla bosses, Mowzie's Mobs, Cataclysm, BOMD. |
@@ -266,6 +269,7 @@ Note that some mods contain their library mods with themselves. Those will not b
 | GUI Experience+ | Overhauls the entire GUI from the menu, inventory, and all blocks with GUI's. Would use either this, Colorful Contrainers, or Create Style Interface. |
 | Icon Xaero's | Fixes most vanilla mob icons and adds new ones for many mods, like Alex's Mobs. |
 | Note Blocks Revamped | Changes the look of noteblocks based on their sound. Compatible with Vanilla Tweak's Visual Noteblock Pitch. |
+| Different Paintings | Changes the painting textures to show what they are. |
 | Simple Grass Flowers | Adds variated textures to grass, dirt, etc. to have flowers and other objects within the texture. |
 | Spawn Egg Backport | Backports the new spawn egg textures from 1.21.5. |
 | VanillaBackport FreshAnimations Compat | Gives the Fresh Animations to mobs from Vanilla Backport. |
