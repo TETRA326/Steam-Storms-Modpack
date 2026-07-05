@@ -1,3 +1,10 @@
+# Table of Contents
+- [Mod List]()
+- [Library Mod List]()
+- [Resource Pack List]()
+- [Recommended Resource Pack Order]()
+- [Shader Pack List]()
+
 # Mod List
 Note that some mods may require mods that aren't listed. Either I did not realize they require that mod, or its obvious and redundant to list it. For example, most Create Addons do not list that they require Create. This is because all of those addons begin with "Create...".
 | Status | Mod | Category | Requires | Required By | Description |
@@ -238,12 +245,37 @@ Note that some mods contain their library mods with themselves. Those will not b
 | | MonoLib | | a |
 
 # Resource Pack List
-|
+| Name | Description |
+| --- | --- |
+| 1.19 Panorama | Adds a panorama inspired by 1.19 (The Wild Update). Panorama taken with shaders and a nice texture pack. |
+| 1.21.4 Panorama | Adds a panorama inspired by 1.21.4 (The Garden Awakens Update). Panorama taken with shaders and a nice texture pack. |
+| 3D Flowers and Plants | Makes crops and flowers look nicer in 3D. Use either this or Fancy Crops. |
+| Armor Stands Revamped | Makes armor stands look better by being more player-shaped. |
+| Capitalized Font | Mᴀᴋᴇs ᴀʟʟ ɪɴ-ɢᴀᴍᴇ ᴛᴇxᴛ ᴜsᴇ ᴀ Sᴍᴀʟʟ-Cᴀᴘs ғᴏɴᴛ. |
+| Colorful Containers | Makes inventory screens and other GUI's look nicer. Would use either this, Create Style Interface, or GUI Experience+. |
+| Create Style Interface | All GUI's and most sounds are inspired by Create. A lot of looks come from Create Higher Logistics textures. Would use either this, Colorful Containers, or GUI Experience+. |
+| Creepers Revamped | Changes the default creeper texture, and provides new ones based on the spawn area (snowy, cherry, pale, etc). |
+| Different Enchantment Books | Makes all vanilla enchantment books unique textures. |
+| Effect Icons | Adds icons next to effects in tool tips. Useful when looking at potions or mobs. |
+| Enchantment Icons | Adds icons next to enchants. Useful looking at books or in the enchantment table. |
+| Enhanced Boss Bars | Changes the look of boss bars to be more "epic". Changes for vanilla bosses, Mowzie's Mobs, Cataclysm, BOMD. |
+| Fancy Crops | Makes crops look nicer and more full. Use either this or 3D Flowers and Plants. |
+| Fresh Animations | Make mobs come to life with new animations. |
+| Fresh Animations - Objects | Gives animations to objects like boats and minecarts. |
+| Fresh Animations - Player | Brings animations to players. |
+| GUI Experience+ | Overhauls the entire GUI from the menu, inventory, and all blocks with GUI's. Would use either this, Colorful Contrainers, or Create Style Interface. |
+| Icon Xaero's | Fixes most vanilla mob icons and adds new ones for many mods, like Alex's Mobs. |
+| Note Blocks Revamped | Changes the look of noteblocks based on their sound. Compatible with Vanilla Tweak's Visual Noteblock Pitch. |
+| Simple Grass Flowers | Adds variated textures to grass, dirt, etc. to have flowers and other objects within the texture. |
+| Spawn Egg Backport | Backports the new spawn egg textures from 1.21.5. |
+| VanillaBackport FreshAnimations Compat | Gives the Fresh Animations to mobs from Vanilla Backport. |
+| Visual Armor Trims | See your trims on armor within the inventory. |
+| Zachs Vanilla Tweaks | My specific selection of packs from Vanilla Tweaks. You can use mine, or make your own with [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/). Be sure to select 1.21. Features with mine include a smaller crosshair, no "Java Edition" in the logo, circular sun and mon, many 3D blocks, and much much more. |
 
-## Resource Pack Recommended Order
+## Recommended Resource Pack Order
 - a
 
-# Shaderpacks
+# Shader Pack List
 | Name | Description |
 | --- | --- |
 | Complementary | Most popular shaderpack, giving a lively but not overly detailed world. Preset options ranging from "potato" to "ultra". |
