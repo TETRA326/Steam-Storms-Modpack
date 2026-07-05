@@ -244,3 +244,10 @@ Note that some mods contain their library mods with themselves. Those will not b
 - a
 
 # Shaderpacks
+| Name | Description |
+| --- | --- |
+| Complementary | Most popular shaderpack, giving a lively but not overly detailed world. Preset options ranging from "potato" to "ultra". |
+| I Like Vanilla | A very bare-bones and light-weight shaderpack. Slightly enhances the "vanilla=feel". |
+| Photon | The most "epic" of the choices. Especially love the look of The End. |
+| Solas Shaders | Another epic-looking shaders specializing in lighting. |
+| Steadfast | N/A |
