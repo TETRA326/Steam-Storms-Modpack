@@ -1,9 +1,9 @@
 # Table of Contents
-- [Mod List]()
-- [Library Mod List]()
-- [Resource Pack List]()
-- [Recommended Resource Pack Order]()
-- [Shader Pack List]()
+- [Mod List](https://github.com/TETRA326/Steam-Storms-Modpack/blob/main/list-master.md#mod-list)
+- [Library Mod List](https://github.com/TETRA326/Steam-Storms-Modpack/blob/main/list-master.md#library-mod-list)
+- [Resource Pack List](https://github.com/TETRA326/Steam-Storms-Modpack/blob/main/list-master.md#resource-pack-list)
+- [Recommended Resource Pack Order](https://github.com/TETRA326/Steam-Storms-Modpack/blob/main/list-master.md#recommended-resource-pack-order)
+- [Shader Pack List](https://github.com/TETRA326/Steam-Storms-Modpack/blob/main/list-master.md#shader-pack-list)
 
 # Mod List
 Note that some mods may require mods that aren't listed. Either I did not realize they require that mod, or its obvious and redundant to list it. For example, most Create Addons do not list that they require Create. This is because all of those addons begin with "Create...".
