@@ -273,7 +273,27 @@ Note that some mods contain their library mods with themselves. Those will not b
 | Zachs Vanilla Tweaks | My specific selection of packs from Vanilla Tweaks. You can use mine, or make your own with [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/). Be sure to select 1.21. Features with mine include a smaller crosshair, no "Java Edition" in the logo, circular sun and mon, many 3D blocks, and much much more. |
 
 ## Recommended Resource Pack Order
-- a
+Note that some of this matters, but most of it doesn't.
+- Creepers Revamped
+- VanillaBackport FreshAnimations Compat
+- Fresh Animations
+- Fresh Animations - Objects
+- Fresh Animations - Player
+- **Either** Colorful Containers, Create Style Interface, or GUI Experience+
+- Vanilla Tweaks
+- **Either** 1.19 Panorama or 1.21.4 Panorama
+- Capitalized Font
+- Enhanced Boss Bars
+- Visual Armor Trims
+- Spawn Egg Backport
+- Icon Xaero's
+- Armor Stands Revamped
+- Different Enchantment Books
+- Effect Icons
+- Enchantment Icons
+- **Either** 3D Flowers and Plants or Fancy Crops
+- Simple Grass Flowers
+The main things for this ordering is keeping anything Fresh Animations-related at the top to avoid models bugging out, Creepers Revamped above Fresh Animations, and your Interface and Vanilla Tweaks right under Fresh Animations and above everything else.
 
 # Shader Pack List
 | Name | Description |
