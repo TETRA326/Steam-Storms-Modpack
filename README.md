@@ -18,4 +18,4 @@ Click "Add Instance". Give your new instance a name (like "Steam & Storms"). Cho
 ## A Short List of the Mods
 
 ### For the Full List of Mods:
-Visit [Here]([https://example.com](https://github.com/TETRA326/Steam-Storms-Modpack/blob/main/Mod%20Master%20List.md)) to see every mod added and what they do.
+Visit [Here](https://github.com/TETRA326/Steam-Storms-Modpack/blob/main/Mod%20Master%20List.md) to see every mod added and what they do.
