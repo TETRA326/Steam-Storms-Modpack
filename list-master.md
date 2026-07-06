@@ -146,6 +146,7 @@ Note that some mods may require mods that aren't listed. Either I did not realiz
 |  | Cataclysm Delight | Addon | Cataclysm, Farmers Delight |  | Adds new food from the cataclysm mod |
 |  | Chef's Delight | World Generation/Addon | Farmer's Delight |  | Adds new buildings and chef professions to villages |
 |  | Pizza Delight | Addon | Farmer's Delight |  | Adds in-depth way to make pizzas |
+|  | Starcatcher's Delight | Addon | Farmer's Delight, Starcatcher |  | Adds new foods from starcatcher |
 |  | MC Refurbished Furniture | New Feature | Framework |  | New furniture |
 |  | Elytra Trims | New Feature | Kotlin |  | Customize elytra with trims, banners, and more |
 |  | Alex's Mobs | New Feature | Citadel |  | Adds many new mobs and items |
@@ -183,6 +184,8 @@ Note that some mods may require mods that aren't listed. Either I did not realiz
 |  | Gliders | New Feature |  |  | Adds craftable gliders. Meant to be early-game elytra |
 |  | AstikorCarts Redux | New Feature |  |  | Adds carts driven by horses for various functions, like plowing and mob transport |
 |  | Via Romana | New Feature | Data Anchor, MidnightLib, Moonlight Lib |  | Travel between charted paths. Fair teleportation mod |
+|  | Starcatcher | New Feature |  |  | Revamps fishing with new fish, rods, tournaments,  and more |
+|  | Game Discs | New Feature |  |  | Adds the game disc, capable of playing different games |
 |  | Tectonic | World Generation | Lithostitched |  | Shapes the terrain to be bigger, higher, wider |
 |  | W. Wythers Overhauled Overworld | World Generation | Cristel Lib |  | Overhauls vanilla biomes |
 |  | Yung's Better Nether Fortresses | World Generation | Yung's API |  | Enhances nether fortresses |
