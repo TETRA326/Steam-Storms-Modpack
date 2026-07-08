@@ -3,8 +3,8 @@ This Modpack adds many new "vanilla-plus" features, such as better structures an
 <br/><br/><br/><br/>
 # Installing
 I recommend using [Prism Launcher](https://prismlauncher.org/download/windows/) as you can install this modpack with just the link, rather than downloading the entire zip and adding it yourself.
-
-Watch this [Video Guide](https://example.com) for a complete walkthrough of installing Prism, adding the pack, and getting on the server.
+<br/><br/>
+Watch this Video Guide for a complete walkthrough of installing Prism, adding the pack, and getting on the server:
 
 https://github.com/user-attachments/assets/c0bc5f12-eac0-4d38-a8c7-1b6162920154
 
