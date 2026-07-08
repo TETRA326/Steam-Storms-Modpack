@@ -12,7 +12,7 @@ Go to https://prismlauncher.org/download/windows/ and download the latest versio
 ## Adding the Instance
 Click "Add Instance". Give your new instance a name (like "Steam & Storms"). Choose "Import" on the left and enter this link:
 ```md
-https://example.com
+https://github.com/TETRA326/Steam-Storms-Modpack/releases/download/Release/Steam.Storms.1.0.zip
 ```
 
 ## Getting on the Server
