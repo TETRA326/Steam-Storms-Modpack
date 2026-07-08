@@ -29,7 +29,7 @@ TBA
 - Boss mods including Cataclysm, Bosses of Mass Destruction, and Mowzies Mobs
 - Mods that enhance vanilla structures, such as all YUNGNICKYUNG better* mods, Better Villages, and adding Create structures thoughout villages
 - Starcatcher, an enhanced fishing mod with minigames
-- Traveler's Backpack, a legendary backpack that adds new abilities, attachments for the backpack, and the toolbelt, allowing you to quick-swap tools and weapons
+- Traveler's Backpack, a legendary backpack mod that adds new abilities, attachments for the backpack, and the toolbelt, allowing you to quick-swap tools and weapons
 
 ## For the Full List of Mods:
 Visit [Here](https://github.com/TETRA326/Steam-Storms-Modpack/blob/main/list-master.md) to see every mod added and what they do.
