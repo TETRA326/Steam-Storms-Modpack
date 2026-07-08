@@ -6,6 +6,8 @@ I recommend using [Prism Launcher](https://prismlauncher.org/download/windows/) 
 
 Watch this [Video Guide](https://example.com) for a complete walkthrough of installing Prism, adding the pack, and getting on the server.
 
+https://github.com/user-attachments/assets/c0bc5f12-eac0-4d38-a8c7-1b6162920154
+
 ## Installing Prism
 Go to https://prismlauncher.org/download/windows/ and download the latest version. Complete the setup until you are at the main screen.
 
