@@ -1,4 +1,4 @@
-# Steam-Storms-Modpack
+# Steam & Storms Modpack
 This Modpack adds many new "vanilla-plus" features, such as better structures and many QOL features. This also adds mods like Create, Farmer's Delight, new bosses and mobs, new terrain generation, a lot of new gear, and addons for everything.
 
 ## Installing
