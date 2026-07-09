@@ -1,3 +1,5 @@
+<img width="2560" height="1440" alt="Banner 1" src="https://github.com/user-attachments/assets/c5380c73-3fbf-46ca-b9a2-fc4f05bf1937" />
+
 # Steam & Storms Modpack
 This Modpack adds many new "vanilla-plus" features, such as better structures and many QOL features. This also adds mods like Create, Farmer's Delight, new bosses and mobs, new terrain generation, a lot of new gear, and addons for everything.
 <br/><br/><br/><br/>
@@ -33,3 +35,5 @@ TBA
 
 ## For the Full List of Mods:
 Visit [Here](https://github.com/TETRA326/Steam-Storms-Modpack/blob/main/list-master.md) to see every mod added and what they do.
+
+<img width="2560" height="1080" alt="Banner 3" src="https://github.com/user-attachments/assets/33a1a973-30ae-480b-9fa3-a33019feab00" />
