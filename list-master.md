@@ -104,6 +104,7 @@ Note that some mods may require mods that aren't listed. Either I did not realiz
 |  | Companion | QOL | Kiwi |  | QOL changes for tamed animals |
 |  | Polymorph | QOL |  |  | When 2 items have the same recipe, switch between them with a button |
 |  | CraftTweaker | QOL |  |  | Add and remove recipes |
+|  | ToastBeGone | QOL |  |  | Blocks toast messages like new recipes and tutorials |
 |  | JEI | QOL |  |  | Recipe screen. Only to give more recipes to EMI |
 |  | EMI | QOL |  |  | Recipe screen |
 |  | EMI Ores | Addon | EMI |  | Ore gen in EMI |
