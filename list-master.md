@@ -119,6 +119,7 @@ Note that some mods may require mods that aren't listed. Either I did not realiz
 |  | Create Connected | Tech |  |  | Logic and rotational blocks |
 |  | Create Enchantment Industry | Tech | Create Dragons Plus |  | New ways to enchant via create |
 |  | Create Aeronautics | Tech | Sable |  | Physics and vehicles in create |
+|  | Create Propulsion: Simulated | Tech | Create Aeronautics |  | Adds new ways to move your sable objects |
 |  | Aeronautics x Carry On Compat | Tech | Create Aeronautics, Carry On |  | Fixes bugs with carry on and aeronautics |
 |  | Copycats+ Aeronautics Weight | Tech | Create Aeronautics, Copycats+ |  | Fixes the weight of blocks on sable contraptions |
 |  | Aeronautics Portable Engine L-Fuel | Tech | Create Aeronautics |  | Allows pumping liquid fuel into the portable engine |
@@ -132,11 +133,19 @@ Note that some mods may require mods that aren't listed. Either I did not realiz
 |  | Create Liquid Fuel | Tech |  |  | Pump lava straight into blaze burners |
 |  | Create Steam and Rails | Tech |  |  | New tracks and train features |
 |  | Create New Additional Recipes | Tech |  |  | Adds several new recipes, providing renewable diamonds, netherite, tuff, etc |
+|  | Create Bits and Bobs | Tech | Azimuth API, Strut Your Stuff |  | Adds new create mechanical pieces and decor |
+|  | Create Big Cannons | Tech | Ritchie's Projectile Library |  | Adds cannons that can be mounted to mechanisms |
+|  | Create Hypertubes | Tech |  |  | Travel quickly through hypertubes |
+|  | Create Escalated | Tech |  |  | Create escalators and moving walkways |
+|  | Create Sound of Steam | Tech |  |  | Adds pipe organs |
+|  | Create Trimmed | Tech/Visual |  |  | Use zinc, brass, rose quartz, and ender pearls to trim your armor |
+|  | Create Extended Wrenches | Tech/Visual |  |  | Customize the materials your wrench is made out of |
 |  | Create Dragons Plus | Tech |  |  | New convenient features for create, like new bulk processing |
 |  | Create Dynamic Village | World Generation/Tech |  |  | Adds new buildings to villages with create items and villagers |
 |  | Create Slice and Dice | Tech | Farmer's Delight |  | Adds slicer to create for farmer's delight |
 |  | Create Central Kitchen | Tech | Farmer's Delight |  | Adds new create ways to process food |
 |  | Delightful Creators | Addon | Farmer's Delight |  | Adds sequencial ways to process food via create |
+|  | Create Food | Tech/Addon | Create, Farmer's Delight, Delightful Creators, Display Delight |  | Adds many new foods inspired by the create mod |
 |  | Farmer's Delight | New Feature |  | All Farmer's Delight Addons | Adds new foods, crops, and ways to cook them |
 |  | My Nether's Delight | Addon | Farmer's Delight |  | Nether foods for farmer's delight |
 |  | End's Delight | Addon | Farmer's Delight |  | End foods for farmer's delight |
@@ -146,6 +155,7 @@ Note that some mods may require mods that aren't listed. Either I did not realiz
 |  | Cataclysm Delight | Addon | Cataclysm, Farmers Delight |  | Adds new food from the cataclysm mod |
 |  | Chef's Delight | World Generation/Addon | Farmer's Delight |  | Adds new buildings and chef professions to villages |
 |  | Pizza Delight | Addon | Farmer's Delight |  | Adds in-depth way to make pizzas |
+|  | Display Delight | Addon | Farmer's Delight | Create Food | Place down food as an item |
 |  | Starcatcher's Delight | Addon | Farmer's Delight, Starcatcher |  | Adds new foods from starcatcher |
 |  | MC Refurbished Furniture | New Feature | Framework |  | New furniture |
 |  | Elytra Trims | New Feature | Kotlin |  | Customize elytra with trims, banners, and more |
@@ -248,6 +258,9 @@ Note that some mods contain their library mods with themselves. Those will not b
 | | Athena | | a |
 | | Searchables | | a |
 | | MonoLib | | a |
+| | Azimuth API | | a |
+| | Strut Your Stuff | | a |
+| | Ritchie's Projectile Library | | a |
 
 # Resource Pack List
 | Name | Description |
