@@ -9,7 +9,7 @@
 Note that some mods may require mods that aren't listed. Either I did not realize they require that mod, or its obvious and redundant to list it. For example, most Create Addons do not list that they require Create. This is because all of those addons begin with "Create...".
 | Status | Mod | Category | Requires | Required By | Description |
 |---|---|---|---|---|---|
-|  | Sodium | Performance |  | Sodium Extras, Reeses… | Rendering optimizations |
+|  | Sodium | Performance |  | Sodium Extra, Reese's Sodium Options, More Culling | Rendering optimizations |
 |  | Lithium | Performance |  |  | Game logic optimizations |
 |  | FerriteCore | Performance |  |  | Memory optimizations |
 |  | ModernFix | Performance |  |  | AIO optimizations, including bug fixes |
@@ -20,9 +20,9 @@ Note that some mods may require mods that aren't listed. Either I did not realiz
 |  | Server Core | Performance |  |  | Optimizes servers |
 |  | Packet Fixer | Performance |  |  | Fixes packets |
 |  | Entity Culling | Performance |  |  | Un-renders entities you can't see |
-|  | More Culling | Performance |  |  | Un-renders other things you can't see |
+|  | More Culling | Performance | More Culling |  | Un-renders other things you can't see |
 |  | Chunky | Performance |  |  | Pre-load chunks |
-|  | Bobby | Performance |  |  | See past server render distance |
+|  | Bobby | Performance | Cloth Config |  | See past server render distance |
 |  | Enhanced Block Entites NEOFORGED | Performance |  |  | Makes block and tile entities more optimized |
 |  | Colorwheel | Performance | Iris, Flywheel (Create) |  | Makes certain shaderpacks more optimized with flywheel, create's back engine |
 |  | Sodium Extra | Performance/Addon | Sodium |  | More sodium options |
@@ -32,17 +32,17 @@ Note that some mods may require mods that aren't listed. Either I did not realiz
 |  | LambDynamic Lights | Visual |  |  | Adds client-lighting to many entities, like held torches or lights dropped |
 |  | Better Third Person | Visual |  |  | Improves the third person camera view |
 |  | 3D Skin Layers | Visual/QOL |  |  | Makes outer skin layers 3D |
-|  | Cosmetic Armor Reworked | Visual/QOL |  |  | Adds slots for cosmetic armor |
+|  | Cosmetic Armor Reworked | Visual/QOL | Architectury |  | Adds slots for cosmetic armor |
 |  | Entity Texture Features | Visual | EMF | EMF | Provides new texturing features |
 |  | Entity Model Features | Visual | ETF | ETF, Create EMF Compat | Provides new model and animation features |
-|  | Create EMF Compat | Visual |  |  | Compat between EMF and create |
+|  | Create EMF Compat | Visual | EMF |  | Compat between EMF and create |
 |  | Forge CIT | Visual |  |  | Provides CIT to neoforge |
 |  | Particle Rain | Visual |  |  | Make weather look nicer |
 |  | Fancy World Animations | Visual |  |  | New animations such as animated doors and levers |
 |  | Visuality Reforged | Visual |  |  | Adds new effects and sounds, like skeleton bones dropping from the mob |
 |  | Particular Reforged | Visual |  |  | Adds new effects and sounds, like 3D water splashes |
 |  | Big Water | Visual | Sodium |  | Make water and lava look less tiled. Off by default |
-| Made by me :) | Elytra Contrails ReReNeoforged | Visual |  |  | Adds contrail lines behind your elytra |
+| Made by me :) | Elytra Contrails ReReNeoforged | Visual | Cloth Config |  | Adds contrail lines behind your elytra |
 |  | Borderless Window | GUI |  |  | Gives Windowed-Borderless option in fullscreen menu |
 |  | Dark Mode Everywhere | GUI |  |  | Make the UI any shade of dark or light |
 |  | AppleSkin | GUI |  |  | Held food gives details, and view your saturation |
